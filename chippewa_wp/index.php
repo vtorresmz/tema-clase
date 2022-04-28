@@ -17,7 +17,7 @@ get_header();
 
 	<main id="primary" class="site-main">
 	<div class="container">
-	<section class="grid-row grid-row--center">
+	<section class="row">
 		<?php
 		if ( have_posts() ) :
 
